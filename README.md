@@ -1,2 +1,2 @@
 # Vel-tech-Gen-AI
-This repository has gen ai related work 
+This repository has Gen Ai related work 
